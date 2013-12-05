@@ -1,0 +1,18 @@
+"/media/WD2TB/MalvernPark/build/tmp/sysroots/i686-linux/usr/bin/armv7a-vfp-neon-poky-linux-gnueabi/arm-poky-linux-gnueabi-gdb /media/WD2TB/MalvernPark/build/tmp/work/swi_mdm9x15-poky-linux-gnueabi/linux-yocto/3.4.43+gitAUTOINC+919d77ed32aeb051a37231aee1ff727c941d1b44_69140311a725eeede991869ddbc1e44390b80785-r4.4.1/linux-swi-mdm9x15-standard-build/vmlinux 
+   
+GNU gdb (GDB) 7.5.1
+Copyright (C) 2012 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.  Type ""show copying""
+and ""show warranty"" for details.
+This GDB was configured as ""--host=i686-linux --target=arm-poky-linux-gnueabi"".
+For bug reporting instructions, please see:
+<http://www.gnu.org/software/gdb/bugs/>...
+Reading symbols from /media/WD2TB/MalvernPark/build/tmp/work/swi_mdm9x15-poky-linux-gnueabi/linux-yocto/3.4.43+gitAUTOINC+919d77ed32aeb051a37231aee1ff727c941d1b44_69140311a725eeede991869ddbc1e44390b80785-r4.4.1/linux-swi-mdm9x15-standard-build/vmlinux...done.
+(gdb) 
+(gdb) 
+(gdb) 
+                                             
+"
+

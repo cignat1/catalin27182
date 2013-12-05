@@ -1,0 +1,47 @@
+cignat1@otp-cignat1-l2:~/Downloads/android-sdk-linux/tools$ ./android 
+cignat1@otp-cignat1-l2:~/Downloads/android-sdk-linux/tools$ 
+cignat1@otp-cignat1-l2:~/Downloads/android-sdk-linux/tools$ mc
+
+cignat1@otp-cignat1-l2:~/Downloads/android-sdk-linux/platform-tools$ 
+cignat1@otp-cignat1-l2:~/Downloads/android-sdk-linux/platform-tools$ 
+cignat1@otp-cignat1-l2:~/Downloads/android-sdk-linux/platform-tools$ 
+cignat1@otp-cignat1-l2:~/Downloads/android-sdk-linux/platform-tools$ sudo ./fastboot devices
+[sudo] password for cignat1: 
+Sorry, try again.
+[sudo] password for cignat1: 
+MDM9615	fastboot
+cignat1@otp-cignat1-l2:~/Downloads/android-sdk-linux/platform-tools$ sudo ./fastboot devices
+MDM9615	fastboot
+cignat1@otp-cignat1-l2:~/Downloads/android-sdk-linux/platform-tools$ sudo ./fastboot devices
+MDM9615	fastboot
+cignat1@otp-cignat1-l2:~/Downloads/android-sdk-linux/platform-tools$ sudo ./fastboot devices
+MDM9615	fastboot
+cignat1@otp-cignat1-l2:~/Downloads/android-sdk-linux/platform-tools$ sudo ./fastboot boot ~/
+20131122091211.log                                            .gnome2/                                                      .pulse-cookie
+.adobe/                                                       .gnome2_private/                                              .rpmdb/
+.android/                                                     .goutputstream-N5A96W                                         .selected_editor
+.bash_history                                                 .goutputstream-RODY6W                                         SIERRA/
+.bash_logout                                                  .gstreamer-0.10/                                              .Skype/
+.bashrc                                                       .gtk-bookmarks                                                .ssh/
+boot-yocto-mdm9x15.img                                        .gvfs/                                                        .subversion/
+BUILD/                                                        .ICEauthority                                                 SWI-MDM9x15_Yocto_1.4_BSP_Test_Reports_WindRiver.xls
+.cache/                                                       .local/                                                       SWI-MDM9x15_Yocto_BSP_Test_Reports_WindRiver_Costel.xls
+.compiz-1/                                                    .~lock.SWI-MDM9x15_Yocto_1.4_BSP_Test_Reports_WindRiver.xls#  .swt/
+.config/                                                      .macromedia/                                                  Templates/
+.dbus/                                                        .mission-control/                                             .thumbnails/
+Desktop/                                                      .mozilla/                                                     Untitled Document
+.dmrc                                                         Music/                                                        Untitled Document~
+Documents/                                                    .nv/                                                          Videos/
+Downloads/                                                    .nvidia-settings-rc                                           .wine/
+.eclipse/                                                     Pictures/                                                     workspace/
+examples.desktop                                              .profile                                                      .Xauthority
+.fontconfig/                                                  Public/                                                       .xsession-errors
+.gconf/                                                       .pulse/                                                       .xsession-errors.old
+cignat1@otp-cignat1-l2:~/Downloads/android-sdk-linux/platform-tools$ sudo ./fastboot boot ~/boot-yocto-mdm9x15.img 
+downloading 'boot.img'...
+OKAY [  1.147s]
+booting...
+OKAY [  0.222s]
+finished. total time: 1.369s
+cignat1@otp-cignat1-l2:~/Downloads/android-sdk-linux/platform-tools$ 
+

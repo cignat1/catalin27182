@@ -666,7 +666,7 @@ static int setup_remote_port(struct port_st *rport, char *host, char *port)
 		}
 
 		if (port[0] == '/') {
-			rport->sock = open(port, O_RDWR|O_NOCTTY|O_NONBLOCK);
+			rport->sock = open(port, O_RDWR|O_NOCTTY|O_NONBLOCK|O_NOCTTY|O_NONBLOCK);
 			if (rport->sock < 0) {
 				printf("ERROR: opening %s\n", port);
 				return 1;
